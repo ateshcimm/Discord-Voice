@@ -41,13 +41,13 @@ ____\||/____
 
 
 ─══════════════════════════☆☆══════════════════════════─
-               Hello, Welcome to WasCode.
+               Hello, Welcome to WasCode Voice TooL.
 ─══════════════════════════☆☆══════════════════════════─
 ╔══════════════════════════════╗
 ║ Need help? Join our Discord. ║
 ╚══════════════════════════════╝
 ╔══════════════════════════════════════════════╗
-║https://discord.gg/nakit - https://discord.gg/nakit║
+║https://discord.gg/nakit - https://discord.gg/wascode║
 ╚══════════════════════════════════════════════╝
 '''
 Anime.Fade(Center.Center(intro), Colors.red_to_green, Colorate.Vertical, interval=.055, enter=_C)
